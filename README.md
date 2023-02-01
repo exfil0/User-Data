@@ -1,5 +1,5 @@
 # User-Data
-Collect visitor IP Address and Cookies with a simple visit,
+Collect visitor IP Address and Cookies after a simple visit.
 
 ```
 <?php
